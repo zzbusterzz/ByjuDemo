@@ -19,7 +19,7 @@ public class GameControl : MonoBehaviour
     public void OnResetClick()
     {
         cubeObj.Reset();
-        forceSlider.value = 1;
+        forceSlider.value = 1.6f;
     }
 
     public void slider(float val)

@@ -2,7 +2,7 @@
 
 public class ParabolaForce : MonoBehaviour
 {
-    public float currentImpactMul = 1f;
+    public float currentImpactMul = 1.6f;
     public LineRenderer LR;
 
     private Rigidbody2D rigidBody;
