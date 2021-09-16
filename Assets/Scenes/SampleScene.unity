@@ -345,7 +345,7 @@ MonoBehaviour:
   m_MinValue: 1
   m_MaxValue: 20
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 1.6
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1549,7 +1549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd707d5c1a6ba184bb284bd7cf1589a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentImpactMul: 1
+  currentImpactMul: 1.6
   LR: {fileID: 1875494088}
 --- !u!50 &1807262121
 Rigidbody2D:
